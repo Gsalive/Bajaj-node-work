@@ -9,10 +9,10 @@ app.use(bodyParser.json());
 
 // Sample user data
 const user = {
-  full_name: 'Nirdesh Singh',
-  dob: '01092002',
-  email: 'nirdesh.20bce7062@vitap.ac.in',
-  roll_number: '20BCE7062',
+  full_name: 'Gaurav Sharma',
+  dob: '04072002',
+  email: 'gaurab.20bce7443@vitap.ac.in',
+  roll_number: '20BCE7433',
 };
 
 // POST endpoint
